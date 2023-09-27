@@ -107,7 +107,7 @@ public class ExpenseTrackerView extends JFrame {
   
       // Fire table update
       transactionsTable.updateUI();
-  
+      
     }  
 
   public void refresh() {
